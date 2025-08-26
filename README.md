@@ -26,14 +26,14 @@ I built and deployed a static website by leveraging **AWS EC2** for hosting and 
 
 A fully functional static website hosted on **EC2**, pulling assets from **S3**, showcasing how AWS services can be integrated to create a simple cloud-native web hosting environment.
 
-👉 GitHub Repository: [aws-ec2-s3-static-website](https://github.com/atulkamble/aws-ec2-s3-static-website)
+👉 GitHub Repository: [aws-ec2-s3-static-website](https://github.com/sushantb1393/aws-ec2-s3-static-website)
 
 ---
 
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/atulkamble/aws-ec2-s3-static-website.git
+git clone https://github.com/sushantb1393/aws-ec2-s3-static-website.git
 cd aws-ec2-s3-static-website
 ```
 
