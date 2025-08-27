@@ -30,14 +30,6 @@ A fully functional static website hosted on **EC2**, pulling assets from **S3**,
 
 ---
 
-## 📥 Clone the Repository
-
-```bash
-git clone https://github.com/sushantb1393/aws-ec2-s3-static-website.git
-cd aws-ec2-s3-static-website
-```
-
----
 
 ## 📌 Steps and Commands
 
